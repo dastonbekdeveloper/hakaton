@@ -12,7 +12,7 @@ import bds
 admin = [1978497895]
 
 
-bot = telebot.TeleBot("7708092203:AAFVlPOWCAFoj4MzCPr6MSJC0bDXjSX6oQU")
+bot = telebot.TeleBot("7788275263:AAFspNCfZ0Bl3z_Kabc_f19HvISozRHNj-c")
 user_chat_bas = 0
 
 users_data = {}
